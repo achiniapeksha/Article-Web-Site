@@ -1,0 +1,28 @@
+Group Members
+1.SOF/19/B1/10 - HKS Malsha
+2.SOF/19/B1/32 - PGT Jayani
+3.MMW/19/B1/39 - WKC de Silva
+3.SOF/19/B1/11 - NBRA Apeksha
+
+
+Sir,
+There are details of our group project.
+
+Project Title - Wata Pita Opa Dupa
+Project Name - Blog
+SQL file name - blog1.sql
+
+Path to front end - localhost/Blog2
+Path to Back end - localhost/Blog2/admin
+
+Admin login 
+username - user
+password - user
+
+link for google drive
+https://drive.google.com/drive/folders/1PMuPUPlyJcDwoY4b3GnivHPFZotj79GX?usp=sharing
+
+Please use this mail address for access our folder.
+bwalallawita@gmail.com
+
+thank you.
